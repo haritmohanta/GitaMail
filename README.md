@@ -6,8 +6,8 @@
  The name "Samsiddhi" beautifully conveys the essence of this project. In Sanskrit, it signifies prosperity, flourishing, and fulfillment. This aptly reflects the project's goal of helping devotees achieve spiritual prosperity by integrating the wisdom of the Bhagavad Gita into their daily lives.
 
 ## It looks like this
+![GITA MAIL](https://github.com/haritmohanta/GitaMail/assets/97934749/6e8e52b8-91f1-4f2c-9290-412531bc0ea3)
 
-![HTML Template](https://github.com/sam-913/GitaMail-Samsiddhi/blob/2b2f72007eac074be2b70d3cc93da17d6a4bb033/demo_MAIL.png)
 ### To know more, you know where to reach us
 
 #### Contributers
